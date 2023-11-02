@@ -1,9 +1,0 @@
-.galery {
-  &__details {
-    margin-bottom: 40px;
-
-    @include OnDesctopAndTablet {
-      margin-bottom: 48px;
-    }
-  }
-}
